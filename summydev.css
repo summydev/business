@@ -469,6 +469,7 @@ button {
     }
 
     #serviceInfo {
+display:block;
         text-align: center;
         border: 2px solid #000e44;
         margin: 65px;
